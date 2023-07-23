@@ -4,9 +4,9 @@
 ## Introduction
 AI Painters is an exciting project that utilizes the power of MediaPipe Solutions to create a fun and interactive painting experience. This project aims to provide a platform where kids and technology enthusiasts can explore the world of artificial intelligence and machine learning through hand-tracking-based painting.
 
-![Uploading pi1.png…]()
+![pi1](https://github.com/NextIn035846/AiPainter/assets/72642100/f4c5c97f-01dd-4b37-b60a-bc52b7617c11)
 
-![Uploading pi2.png…]()
+![pi2](https://github.com/NextIn035846/AiPainter/assets/72642100/82eee983-2340-4bed-8bea-6a11ea1c1902)
 
 
 ## About MediaPipe Solutions
